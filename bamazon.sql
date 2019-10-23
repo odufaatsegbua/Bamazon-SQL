@@ -8,3 +8,4 @@ department_name VARCHAR(30) NOT NULL,
 item_price INT NOT NULL,
 stock_quantity INT,
 primary key (item_id)
+
